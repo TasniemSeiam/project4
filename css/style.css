@@ -1,0 +1,38 @@
+.navbar{
+    box-shadow:#3292A6 0px 3px 3px;
+}
+.nav-link{
+    margin-right: 14px;
+    font-size:17px ;
+}
+header{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(50, 147, 166, 0.521),rgba(50, 147, 166, 0.521)) , url(../images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    position: relative;top: 25px;
+}
+#authors img{
+ margin-top: -70px;
+}
+#authors h5{
+    color: #636262;
+}
+#authors a i{
+    font-size: 22px;
+}
+#contact{
+    background-color: #F8F9FA;
+}
+.icon{
+    color: #495057;
+    background-color: #E5E8EB;
+}
+.input{
+    border: #c2bfbf solid 1px;
+}
+textarea{
+    color: #636262;
+}
